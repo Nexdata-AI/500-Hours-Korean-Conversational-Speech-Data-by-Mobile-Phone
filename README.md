@@ -1,9 +1,9 @@
 # 500-Hours-Korean-Conversational-Speech-Data-by-Mobile-Phone
 
-https://www.datatang.ai/datasets/1103
-
 ## Description
 About 700 Korean speakers participated in the recording, and conducted face-to-face communication in a natural way. They had free discussion on a number of given topics, with a wide range of fields; the voice was natural and fluent, in line with the actual dialogue scene. Text is transferred manually, with high accuracy.
+
+For more details, please refer to the link: https://www.datatang.ai/datasets/1103
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel;
@@ -31,3 +31,6 @@ speech recognition; voiceprint recognition;
 
 ## Accuracy rate
 95%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
